@@ -1,2 +1,2 @@
 # github-demo
-Learning GIT Commands
+Learning GIT Commands for Dev Ops Course
