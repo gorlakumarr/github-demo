@@ -5,6 +5,9 @@ Learn - Practice
 
 ##Intro
 
+This is simple github-demo project
+
 ##Purpose
+
 
 ##How to Contribute
