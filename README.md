@@ -3,8 +3,8 @@ Learning GIT Commands for Dev Ops Course
 
 Learn - Practice
 
-#Intro
+##Intro
 
-#Purpose
+##Purpose
 
-#How to Contribute
+##How to Contribute
