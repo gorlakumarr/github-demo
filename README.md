@@ -15,6 +15,5 @@ This is an exmaple to showcase git commands
 
 This is an exmaple to show git commands
 it will be helpfull for others to learn
-Added Some Text
 
 @2022 Git Training
