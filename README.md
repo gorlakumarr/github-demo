@@ -9,5 +9,6 @@ This is simple github-demo project
 
 ##Purpose
 
+This is an exmaple to showcase git commands
 
 ##How to Contribute
